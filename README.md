@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Felipe Cajas Maureira 👋
 
-<!--
-**pipeboxes/pipeboxes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with Full Stack training from Desafío Latam.  
+Passionate about building modern, responsive web applications and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Bootstrap
+- Node.js
+- Express
+- PostgreSQL
+
+## 🌐 Web Projects
+
+🔹 https://aurealuz.cl  
+🔹 https://ambenta.cl  
+🔹 https://neurokyosei.cl  
+
+## 💻 GitHub Projects
+
+You can explore my repositories where I develop frontend applications, API integrations and responsive interfaces.
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/felipe-ignacio-cajas-maureira-95a6a1307/ 
