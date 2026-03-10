@@ -6,9 +6,10 @@ Passionate about building modern, responsive web applications and continuously l
 ## 🚀 Technologies
 
 - React
+- Angular
 - JavaScript
 - HTML
-- CSS
+- SCSS
 - Vite
 - Bootstrap
 - Node.js
