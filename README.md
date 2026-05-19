@@ -15,7 +15,9 @@ Focused on software quality, manual testing, API testing and continuous improvem
 
 - UI/UX Validation
 
-- Basic Test Automation (Jest)
+- Test Automation (Selenium - Playwright)
+
+- Testim
 
 🛠️ Tools
 
@@ -25,7 +27,6 @@ Focused on software quality, manual testing, API testing and continuous improvem
 
 - Git Flow
 
-- Jest
 
 💻 Technical Background (Plus for QA)
 
