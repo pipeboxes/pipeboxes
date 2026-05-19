@@ -27,6 +27,8 @@ Focused on software quality, manual testing, API testing and continuous improvem
 
 - Git Flow
 
+- Jira
+
 
 💻 Technical Background (Plus for QA)
 
