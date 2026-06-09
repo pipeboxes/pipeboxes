@@ -1,7 +1,6 @@
 Hi, I'm Felipe Cajas Maureira 👋
 
-QA Engineer with a strong Full-Stack development background from Desafío Latam.
-Focused on software quality, manual testing, API testing and continuous improvement of web applications. My development experience allows me to understand systems deeply, detect bugs efficiently and collaborate effectively with developers.
+QA Analyst focused on functional testing, API validation, and quality assurance for web applications. Experienced in test case design and execution, defect tracking, regression testing, exploratory testing, and REST API testing using Postman. Skilled in test automation with Playwright and Testim, with a solid understanding of the Software Development Life Cycle (SDLC) and Agile/Scrum methodologies. Committed to continuous improvement, early defect detection, and delivering reliable, high-quality software.
 
 🧪 QA Skills
 
