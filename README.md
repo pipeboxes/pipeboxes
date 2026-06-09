@@ -63,4 +63,4 @@ In my repositories, you will find not only frontend development projects but als
 📫 Contact
 
 LinkedIn:
-https://www.linkedin.com/in/felipe-ignacio-cajas-maureira-95a6a1307/
+[https://www.linkedin.com/in/ficm/]
